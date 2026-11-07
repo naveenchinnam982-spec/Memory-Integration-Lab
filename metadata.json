@@ -1,0 +1,6 @@
+{
+  "name": "Memory Lab",
+  "description": "AI-powered Memory Integration mobile application demonstrating intelligent context retrieval and dynamic memory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

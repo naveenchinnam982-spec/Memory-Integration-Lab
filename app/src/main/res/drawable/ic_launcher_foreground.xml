@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer memory constellation nodes and connections -->
+    <!-- Network connection lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:pathData="M54,34 L36,46 L38,64 L54,74 L70,64 L72,46 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#818CF8"
+        android:strokeWidth="1.5"
+        android:pathData="M54,34 L54,54 M36,46 L54,54 M38,64 L54,54 M54,74 L54,54 M70,64 L54,54 M72,46 L54,54" />
+
+    <!-- Central memory crystal / processor node -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,44 L63,54 L54,64 L45,54 Z" />
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M54,48 L59,54 L54,60 L49,54 Z" />
+
+    <!-- Neural Memory Nodes -->
+    <!-- Top node -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,30 A4,4 0 1 0 54,38 A4,4 0 1 0 54,30 Z" />
+    <!-- Top Left -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,42 A4,4 0 1 0 36,50 A4,4 0 1 0 36,42 Z" />
+    <!-- Bottom Left -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M38,60 A4,4 0 1 0 38,68 A4,4 0 1 0 38,60 Z" />
+    <!-- Bottom node -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M54,70 A4,4 0 1 0 54,78 A4,4 0 1 0 54,70 Z" />
+    <!-- Bottom Right -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M70,60 A4,4 0 1 0 70,68 A4,4 0 1 0 70,60 Z" />
+    <!-- Top Right -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M72,42 A4,4 0 1 0 72,50 A4,4 0 1 0 72,42 Z" />
+</vector>
